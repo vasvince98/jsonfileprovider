@@ -1,1 +1,105 @@
-{"OE_AktivJogviszonyosHallgatokAdat":[{"UserID":"427724","NeptunKod":"9BF359","VezetekNev":"Keszthelyi","KeresztNev":"Dóra","TeljesNev":"Keszthelyi Dóra","Email":"9BF359@mail.com","UserLastChanged":"2022-11-26T13:05:32.04981","EmailLastChanged":"2022-11-26T13:05:32.049815"},{"UserID":"1272369","NeptunKod":"I0XMEF","VezetekNev":"Vágner","KeresztNev":"Zorka","TeljesNev":"Vágner Zorka","Email":"I0XMEF@mail.com","UserLastChanged":"2022-11-26T13:05:32.049895","EmailLastChanged":"2022-11-26T13:05:32.049902"},{"UserID":"7479932","NeptunKod":"PQKECL","VezetekNev":"Vágner","KeresztNev":"Anna","TeljesNev":"Vágner Anna","Email":"PQKECL@mail.com","UserLastChanged":"2022-11-26T13:05:32.049225","EmailLastChanged":"2022-11-26T13:05:32.049239"},{"UserID":"8880996","NeptunKod":"5KWF4O","VezetekNev":"Nagy","KeresztNev":"Zorka","TeljesNev":"Nagy Zorka","Email":"5KWF4O@mail.com","UserLastChanged":"2022-11-26T13:05:32.049419","EmailLastChanged":"2022-11-26T13:05:32.049423"},{"UserID":"275789","NeptunKod":"9P7PQW","VezetekNev":"Kovács","KeresztNev":"Anna","TeljesNev":"Kovács Anna","Email":"9P7PQW@mail.com","UserLastChanged":"2022-11-26T13:05:32.050001","EmailLastChanged":"2022-11-26T13:05:32.050006"},{"UserID":"7379832","NeptunKod":"G0JSWA","VezetekNev":"Selmeci","KeresztNev":"Zorka","TeljesNev":"Selmeci Zorka","Email":"G0JSWA@mail.com","UserLastChanged":"2022-11-26T13:05:32.0493","EmailLastChanged":"2022-11-26T13:05:32.049305"},{"UserID":"6503430","NeptunKod":"L5E7HB","VezetekNev":"Kelemen","KeresztNev":"Imre","TeljesNev":"Kelemen Imre","Email":"L5E7HB@mail.com","UserLastChanged":"2022-11-26T13:05:32.050049","EmailLastChanged":"2022-11-26T13:05:32.050053"},{"UserID":"9178378","NeptunKod":"USVVUJ","VezetekNev":"Kovács","KeresztNev":"Anna","TeljesNev":"Kovács Anna","Email":"USVVUJ@mail.com","UserLastChanged":"2022-11-26T13:05:32.049358","EmailLastChanged":"2022-11-26T13:05:32.049362"},{"UserID":"3645929","NeptunKod":"L016KV","VezetekNev":"dr.Nemes","KeresztNev":"Dóra","TeljesNev":"dr.Nemes Dóra","Email":"L016KV@gmail.com","UserLastChanged":"2022-11-26T13:05:32.049742","EmailLastChanged":"2022-11-26T13:05:32.049749"},{"UserID":"8675034","NeptunKod":"VY772E","VezetekNev":"Vágner","KeresztNev":"Imre","TeljesNev":"Vágner Imre","Email":"VY772E@mail.com","UserLastChanged":"2022-11-26T13:05:32.049469","EmailLastChanged":"2022-11-26T13:05:32.049473"}]}
+{
+"OE_AktivJogviszonyosHallgatokAdat":
+    [
+        {
+        "Email": "9BF359@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049815",
+        "KeresztNev": "D\u00f3ra",
+        "NeptunKod": "9BF359",
+        "TeljesNev": "Keszthelyi D\u00f3ra",
+        "UserID": "427724",
+        "UserLastChanged": "2022-11-26T13:05:32.04981",
+        "VezetekNev": "Keszthelyi"
+        },
+        {
+        "Email": "I0XMEF@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049902",
+        "KeresztNev": "Béla",
+        "NeptunKod": "I0XMEF",
+        "TeljesNev": "V\u00e1gner Béla",
+        "UserID": "1272369",
+        "UserLastChanged": "2022-11-26T13:05:32.049895",
+        "VezetekNev": "V\u00e1gner"
+        },
+        {
+        "Email": "PQKECL@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049239",
+        "KeresztNev": "Anna",
+        "NeptunKod": "PQKECL",
+        "TeljesNev": "V\u00e1gner Anna",
+        "UserID": "7479932",
+        "UserLastChanged": "2022-11-26T13:05:32.049225",
+        "VezetekNev": "V\u00e1gner"
+        },
+        {
+        "Email": "5KWF4O@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049423",
+        "KeresztNev": "Zorka",
+        "NeptunKod": "5KWF4O",
+        "TeljesNev": "Kis Zorka",
+        "UserID": "8880996",
+        "UserLastChanged": "2022-11-26T13:05:32.049419",
+        "VezetekNev": "Kis"
+        },
+        {
+        "Email": "almaa@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.050006",
+        "KeresztNev": "Anna",
+        "NeptunKod": "9P7PQW",
+        "TeljesNev": "Kov\u00e1cs Anna",
+        "UserID": "275789",
+        "UserLastChanged": "2022-11-26T13:05:32.050001",
+        "VezetekNev": "Kov\u00e1cs"
+        },
+        {
+        "Email": "G0JSWA@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049305",
+        "KeresztNev": "Zorka",
+        "NeptunKod": "G0JSWA",
+        "TeljesNev": "Selmeci Zorka",
+        "UserID": "7379832",
+        "UserLastChanged": "2022-11-26T13:05:32.0493",
+        "VezetekNev": "Selmeci"
+        },
+        {
+        "Email": "L5E7HB@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.050053",
+        "KeresztNev": "Imre",
+        "NeptunKod": "L5E7HB",
+        "TeljesNev": "Kelemen Imre",
+        "UserID": "6503430",
+        "UserLastChanged": "2022-11-26T13:05:32.050049",
+        "VezetekNev": "Kelemen"
+        },
+        {
+        "Email": "USVVUJ@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049362",
+        "KeresztNev": "Anna",
+        "NeptunKod": "USVVUJ",
+        "TeljesNev": "Kov\u00e1cs Anna",
+        "UserID": "9178378",
+        "UserLastChanged": "2022-11-26T13:05:32.049358",
+        "VezetekNev": "Kov\u00e1cs"
+        },
+        {
+        "Email": "L016KV@gmail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049749",
+        "KeresztNev": "D\u00f3ra",
+        "NeptunKod": "L016KV",
+        "TeljesNev": "dr.Nemes D\u00f3ra",
+        "UserID": "3645929",
+        "UserLastChanged": "2022-11-26T13:05:32.049742",
+        "VezetekNev": "dr.Nemes"
+        },
+        {
+        "Email": "VY772E@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049473",
+        "KeresztNev": "Imre",
+        "NeptunKod": "VY772E",
+        "TeljesNev": "V\u00e1gner Imre",
+        "UserID": "8675034",
+        "UserLastChanged": "2022-11-26T13:05:32.049469",
+        "VezetekNev": "V\u00e1gner"
+        }
+    ]
+}
