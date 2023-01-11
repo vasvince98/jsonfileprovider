@@ -1,6 +1,16 @@
 {
 "OE_AlkalmazottakAdat":
     [
+	{
+        "Email": "9BF359@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049815",
+        "KeresztNev": "D\u00f3ra",
+        "NeptunKod": "9BF359",
+        "TeljesNev": "Keszthelyi D\u00f3ra",
+        "UserID": "427724",
+        "UserLastChanged": "2022-11-26T13:05:32.04981",
+        "VezetekNev": "Keszthelyi"
+        },
         {
         "Email": "0JXYUR@mail.com",
         "EmailLastChanged": "2022-11-26T13:05:32.05015",
