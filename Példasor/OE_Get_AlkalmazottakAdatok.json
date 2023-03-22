@@ -1,0 +1,65 @@
+{
+"OE_AlkalmazottakAdat":
+    [
+        {
+        "Email": "0JXYUR@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.05015",
+        "KeresztNev": "Balázs",
+        "NeptunKod": "0JXYUR",
+        "TeljesNev": "dr.Kölömön Balázs",
+        "UserID": "2977166",
+        "UserLastChanged": "2022-11-26T13:05:32.050146",
+        "VezetekNev": "dr.Kölömön"
+        },
+        {
+        "Email": "uborka@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.0501",
+        "KeresztNev": "Dóra",
+        "NeptunKod": "5KC6E5",
+        "TeljesNev": "Tamási Dóra",
+        "UserID": "4718809",
+        "UserLastChanged": "2022-11-26T13:05:32.050096",
+        "VezetekNev": "Tamási"
+        },
+        {
+        "Email": "QCMA3X@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.049955",
+        "KeresztNev": "B\u00e9la",
+        "NeptunKod": "QCMA3X",
+        "TeljesNev": "dr.V\u00e1gner B\u00e9la",
+        "UserID": "977673",
+        "UserLastChanged": "2022-11-26T13:05:32.04995",
+        "VezetekNev": "dr.V\u00e1gner"
+        },
+        {
+        "Email": "2LX2GX@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.048033",
+        "KeresztNev": "M\u00e1ty\u00e1s",
+        "NeptunKod": "2LX2GX",
+        "TeljesNev": "Tam\u00e1si M\u00e1ty\u00e1s",
+        "UserID": "4719782",
+        "UserLastChanged": "2022-11-26T13:05:32.047131",
+        "VezetekNev": "Tam\u00e1si"
+        },
+        {
+        "Email": "1WATIJ@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.050199",
+        "KeresztNev": "Pityu",
+        "NeptunKod": "1WATIJ",
+        "TeljesNev": "dr.Kelemen Pityu",
+        "UserID": "1625045",
+        "UserLastChanged": "2022-11-26T13:05:32.050195",
+        "VezetekNev": "dr.Kelemen"
+        },
+		{
+        "Email": "VM1A7O@mail.com",
+        "EmailLastChanged": "2022-11-26T13:05:32.050199",
+        "KeresztNev": "Zsombor",
+        "NeptunKod": "VM1A7O",
+        "TeljesNev": "Kovászos Zsombor",
+        "UserID": "1625049",
+        "UserLastChanged": "2022-11-26T13:05:32.050195",
+        "VezetekNev": "Kovászos"
+        }
+    ]
+}

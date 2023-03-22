@@ -1,0 +1,141 @@
+{
+  "OE_KurzusokFelhasznalokkalAdat" : [
+    {
+      "TargyKod" : "RKPLHIBLE",
+      "TargyNev" : "Elektronika",
+      "KurzusKod" : "116",
+      "Felev" : "2022/23/1",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat" : [
+        {
+          "NeptunKod" : "2LX2GX"
+        },
+        {
+          "NeptunKod" : "QCMA3X"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat" : [
+        {
+          "NeptunKod" : "9BF359"
+        },
+        {
+          "NeptunKod" : "L016KV"
+        }
+      ]
+    },
+    {
+      "TargyKod" : "BVPLWZTEE",
+      "TargyNev" : "Pszihológia",
+      "KurzusKod" : "9MG",
+      "Felev" : "2022/23/1",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat" : [
+        {
+          "NeptunKod" : "QCMA3X"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat" : [
+        {
+          "NeptunKod" : "9BF359"
+        },
+        {
+          "NeptunKod" : "PQKECL"
+        },
+        {
+          "NeptunKod" : "5KWF4O"
+        },
+        {
+          "NeptunKod" : "G0JSWA"
+        },
+        {
+          "NeptunKod" : "VY772E"
+        }
+      ]
+    },
+    {
+      "TargyKod" : "KEMEJXBNE",
+      "TargyNev" : "Mechanika II.",
+      "KurzusKod" : "E6E",
+      "Felev" : "2022/23/1",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat" : [
+        {
+          "NeptunKod" : "0JXYUR"
+        },
+        {
+          "NeptunKod" : "5KC6E5"
+        },
+        {
+          "NeptunKod" : "QCMA3X"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat" : [
+        {
+          "NeptunKod" : "G0JSWA"
+        },
+        {
+          "NeptunKod" : "USVVUJ"
+        },
+        {
+          "NeptunKod" : "9BF359"
+        },
+        {
+          "NeptunKod" : "5KWF4O"
+        },
+        {
+          "NeptunKod" : "PQKECL"
+        },
+        {
+          "NeptunKod" : "VY772E"
+        },
+        {
+          "NeptunKod" : "I0XMEF"
+        },
+        {
+          "NeptunKod" : "9P7PQW"
+        }
+      ]
+    },
+    {
+      "TargyKod" : "NIATDSSLE",
+      "TargyNev" : "Építészet",
+      "KurzusKod" : "76H",
+      "Felev" : "2022/23/1",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat" : [
+        {
+          "NeptunKod" : "1WATIJ"
+        },
+        {
+          "NeptunKod" : "5KC6E5"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat" : [
+        {
+          "NeptunKod" : "G0JSWA"
+        }
+      ]
+    },
+    {
+      "TargyKod" : "NINJOVONE",
+      "TargyNev" : "Anyagismeret",
+      "KurzusKod" : "6EK",
+      "Felev" : "2022/23/1",
+      "OE_KurzusokFelhasznalokkalKurzusOktatokAdat" : [
+        {
+          "NeptunKod" : "1WATIJ"
+        }
+      ],
+      "OE_KurzusokFelhasznalokkalKurzusHallgatokAdat" : [
+        {
+          "NeptunKod" : "USVVUJ"
+        },
+        {
+          "NeptunKod" : "9BF359"
+        },
+        {
+          "NeptunKod" : "G0JSWA"
+        },
+        {
+          "NeptunKod" : "5KWF4O"
+        }
+      ]
+    }
+  ]
+}
